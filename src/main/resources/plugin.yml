@@ -1,0 +1,10 @@
+name: 40TPS
+description: asdf
+version: 1.0
+
+main: com.kbg.BetterTPS
+
+commands:
+   tps:
+      description: Shows tps
+      usage: /tps
